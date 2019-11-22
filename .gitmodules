@@ -1,0 +1,3 @@
+[submodule "adv_chat"]
+	path = adv_chat
+	url = https://github.com/appgurueu/adv_chat
