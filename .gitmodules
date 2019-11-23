@@ -7,3 +7,6 @@
 [submodule "cmdlib"]
 	path = cmdlib
 	url = https://github.com/appgurueu/cmdlib
+[submodule "deathlist"]
+	path = deathlist
+	url = https://github.com/appgurueu/deathlist
