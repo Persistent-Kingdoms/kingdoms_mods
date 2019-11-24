@@ -10,3 +10,12 @@
 [submodule "deathlist"]
 	path = deathlist
 	url = https://github.com/appgurueu/deathlist
+[submodule "place_limit"]
+	path = place_limit
+	url = https://github.com/appgurueu/place_limit
+[submodule "item_limit"]
+	path = item_limit
+	url = https://github.com/appgurueu/item_limit
+[submodule "hud_timers"]
+	path = hud_timers
+	url = https://github.com/appgurueu/hud_timers
