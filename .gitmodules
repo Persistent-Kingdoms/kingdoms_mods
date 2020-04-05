@@ -19,3 +19,15 @@
 [submodule "hud_timers"]
 	path = hud_timers
 	url = https://github.com/appgurueu/hud_timers
+[submodule "dash"]
+	path = dash
+	url = https://github.com/appgurueu/dash
+[submodule "playertags"]
+	path = playertags
+	url = https://github.com/appgurueu/playertags
+[submodule "magic_potions"]
+	path = magic_potions
+	url = https://github.com/appgurueu/magic_potions
+[submodule "voxelizer"]
+	path = voxelizer
+	url = https://github.com/appgurueu/voxelizer
